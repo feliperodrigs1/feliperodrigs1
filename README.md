@@ -1,6 +1,5 @@
 ### Hello there 🤓
 
-- 🔭 Dev Intern at Agger Sistemas
 - 🌱 I’m always learning new skills
 
 <br>
