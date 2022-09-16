@@ -2,13 +2,7 @@
 
 - 🌱 I’m always learning new skills
 
-<br>
-
-<div align="left">
-  <a href="https://github.com/feliperodrigs1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliperodrigs1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-<br> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feliperodrigs1&theme=great-gatsby)](https://git.io/streak-stats)
   
 <!--
 **feliperodrigs1/feliperodrigs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
