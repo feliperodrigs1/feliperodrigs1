@@ -1,6 +1,10 @@
+<img aligh="relative" height="300" width="510" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 ### Hello there 🤓
 
 - 🌱 I’m always learning new skills
+- 👨‍💻 Actually i work as Software Engineer at SmartFit
+- ⚡ Focused in Ruby on Rails and JS
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feliperodrigs1&theme=great-gatsby)](https://git.io/streak-stats)
   
