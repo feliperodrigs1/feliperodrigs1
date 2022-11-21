@@ -3,8 +3,9 @@
 ### Hello there 🤓
 
 - 🌱 I’m always learning new skills
-- 👨‍💻 Actually i work as Software Engineer at SmartFit
+- 👨‍💻 Actually i work as Software Engineer Intern at SmartFit
 - ⚡ Focused in Ruby on Rails and JS
+- 🔭 Studying Information Systems at college
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feliperodrigs1&theme=great-gatsby)](https://git.io/streak-stats)
   
