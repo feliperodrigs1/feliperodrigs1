@@ -7,7 +7,8 @@
 - ⚡ Focused in Ruby on Rails and JS
 - 🔭 Studying Information Systems at college
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feliperodrigs1&theme=great-gatsby)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feliperodrigs1&theme=dark)](https://git.io/streak-stats)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperodrigs1&layout=compact&langs_count=7&theme=dark"/>
   
 <!--
 **feliperodrigs1/feliperodrigs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
