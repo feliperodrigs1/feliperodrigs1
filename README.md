@@ -3,7 +3,7 @@
 ### Hello there 🤓
   
 - 🌱 I’m always learning new skills <br>
-- 👨‍💻 Actually i work as Software Engineer Intern at SmartFit <br>
+- 👨‍💻 Actually i work as Software Engineer at SmartFit <br>
 - ⚡ Focused in Ruby on Rails and JS <br>
 - 🔭 Studying Information Systems at college <br>
 
