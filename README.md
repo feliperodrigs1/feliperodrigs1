@@ -9,6 +9,12 @@
 
 ##
 
+<div align="center">    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperodrigs1&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+##
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -34,14 +40,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-
-##
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=feliperodrigs1&theme=dark"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperodrigs1&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ##
 <!--
