@@ -4,8 +4,8 @@
   
 - 🌱 I’m always learning new skills <br>
 - 👨‍💻 Actually I work as Software Engineer at SmartFit <br>
-- ⚡ Focused in Ruby on Rails and JS <br>
-- 🔭 Graduate Information Systems at college <br>
+- ⚡ Focused at Ruby on Rails and JS <br>
+- 🔭 Graduated in Information Systems at college <br>
 
 ##
 
