@@ -1,10 +1,10 @@
-<img aligh="center" height="350" width="1000" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img aligh="center" height="350" width="1000" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdjeXhsdzR5aHB6dWFiOWdzeXZtbjh6ZmVsNHVhYTJvNWkwbGVycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif">
 
-### Hello there 🧙‍♂️
+### About Me 🧙‍♂️
   
-- 🌱 I’m always learning new skills <br>
-- 👨‍💻 Actually I work as Software Engineer at SmartFit <br>
-- ⚡ Focused at Ruby on Rails and JS <br>
+- 🌱 Software Engineer with 4+ years of experience <br>
+- 👨‍💻 Actually I work at Luizalabs (Magalu) <br>
+- ⚡ Focused at Ruby on Rails, Go and React <br>
 - 🔭 Graduated in Information Systems at college <br>
 
 ##
@@ -33,9 +33,15 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
-  <a href="https://www.docker.com//" target="_blank"> 
+  <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://go.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+  </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
